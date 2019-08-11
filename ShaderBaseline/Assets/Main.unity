@@ -125,7 +125,7 @@ GameObject:
   - component: {fileID: 120106532}
   - component: {fileID: 120106531}
   m_Layer: 0
-  m_Name: Sphere (1)
+  m_Name: blue ball
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -201,7 +201,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &170076733
 GameObject:
@@ -284,7 +284,7 @@ GameObject:
   - component: {fileID: 449776238}
   - component: {fileID: 449776240}
   m_Layer: 0
-  m_Name: New Sprite
+  m_Name: tree
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -473,7 +473,7 @@ GameObject:
   - component: {fileID: 847913238}
   - component: {fileID: 847913237}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: yellow cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -549,7 +549,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1291274817
 GameObject:
@@ -564,7 +564,7 @@ GameObject:
   - component: {fileID: 1291274819}
   - component: {fileID: 1291274818}
   m_Layer: 0
-  m_Name: Cylinder (1)
+  m_Name: magenta cyl
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -641,7 +641,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1561935206
 GameObject:
@@ -656,7 +656,7 @@ GameObject:
   - component: {fileID: 1561935208}
   - component: {fileID: 1561935207}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: red ball
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -732,7 +732,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1650272381
 GameObject:
@@ -747,7 +747,7 @@ GameObject:
   - component: {fileID: 1650272383}
   - component: {fileID: 1650272382}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: green cap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -824,7 +824,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1662497941
 GameObject:
@@ -839,7 +839,7 @@ GameObject:
   - component: {fileID: 1662497943}
   - component: {fileID: 1662497942}
   m_Layer: 0
-  m_Name: Cylinder
+  m_Name: orange cyl
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -916,5 +916,5 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

@@ -67,7 +67,7 @@
             fixed4 transparent(v2f iTexCoord) : SV_Target
             {
                 fixed4 texColor = tex2D(_MainTex, iTexCoord.uv);
-                texColor.a *= (1-iTexCoord.uv.x)*10 - 2;
+                texColor.a = saturate(texColor.a*(1-iTexCoord.uv.x)*10 - 2);
                 return texColor;
             }
             
